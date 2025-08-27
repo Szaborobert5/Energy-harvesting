@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [TEG_ver4.PrjPcb]
+   Generated File[TEG_ver4_PCB2.TXT]
+   Generated File[TEG_ver4_PCB2.LDP]
+   Generated File[TEG_ver4_PCB2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 00:51:06 On 6.4.2025.
