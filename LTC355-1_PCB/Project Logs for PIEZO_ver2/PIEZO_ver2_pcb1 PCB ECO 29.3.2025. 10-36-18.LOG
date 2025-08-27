@@ -1,0 +1,12 @@
+Added Component: Designator=L1(77F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/77F470J-TR-RC/Bourns/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "77F470J-TR-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/77F470J-TR-RC/Bourns/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetL1_P$1 Pin=L1-P$1
+Added Pin To Net: NetName=VOUT Pin=L1-P$2
+Added Member To Class: ClassName=PIEZO_ver2_sheet1 Member=Component L1 77F470J-TR-RC
+Added Room: Name=PIEZO_ver2_sheet1
