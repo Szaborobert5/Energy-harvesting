@@ -1,2 +1,37 @@
-# Energy-harvesting
+# ⚡ Energy Harvesting from Thermal Gradients and Vibrations
 This project demonstrates the design and implementation of a dual-source energy harvesting system, utilizing both thermal gradients and mechanical vibrations to power low-power electronic devices without conventional batteries.
+
+🔍 Overview
+
+This project presents the design and implementation of a dual-source energy harvesting system capable of converting ambient energy into usable electrical power. The system harvests energy from thermal gradients 🌡️ and mechanical vibrations 🔧, enabling the powering of low-power electronic devices without conventional batteries 🔋❌.
+
+The energy harvesting circuit is based around two ICs and those are :
+- LTC3108 – ultra-low-voltage thermoelectric energy harvesting
+- LTC3588-1 – piezoelectric vibration energy harvesting
+The project includes custom PCB design, experimental measurements, and validation using oscilloscope analysis 📈.
+
+## 💰 Budget
+
+This project was completed within a budget of $800, covering:
+
+- Energy harvesting ICs
+- PCB fabrication and assembly
+- Measurement and prototyping components
+
+## 🧩 System Architecture
+
+🌡️ Thermoelectric Energy Harvesting (LTC3108)
+- Harvests energy from a temperature difference using a thermoelectric generator (TEG)
+- Operates with input voltages as low as tens of millivolts
+- Boosts and regulates the voltage to a stable 3.3 V DC output
+- Suitable for ultra-low-power devices and sensors
+
+🔧 Piezoelectric Energy Harvesting (LTC3588-1)
+- Harvests energy from mechanical vibrations or deformation
+- Handles high-voltage, impulse-based AC signals
+- Uses an integrated rectifier and regulator
+- Provides a stable 1 V DC output for low-power applications
+
+## PCB Design
+
+Both designs are two layer PCBs
