@@ -10,6 +10,9 @@ The energy harvesting circuit is based around two ICs and those are :
 - LTC3588-1 – piezoelectric vibration energy harvesting
 The project includes custom PCB design, experimental measurements, and validation using oscilloscope analysis 📈.
 
+## 🎉 Achivments
+Implemented the thermoelectric energy harvesting circuit to an RFID tag to enhance reading range and co-authored an IEEE science paper
+
 ## 💰 Budget
 
 This project was completed within a budget of $800, covering:
@@ -17,6 +20,7 @@ This project was completed within a budget of $800, covering:
 - Energy harvesting ICs
 - PCB fabrication and assembly
 - Measurement and prototyping components
+- Piezoelectric harvester V21BL
 
 ## 🧩 System Architecture
 
@@ -32,6 +36,6 @@ This project was completed within a budget of $800, covering:
 - Uses an integrated rectifier and regulator
 - Provides a stable 1 V DC output for low-power applications
 
-## PCB Design
+## 🎞️ Circuit Operation
 
-Both designs are two layer PCBs
+The following animations illustrate the operating principles of both energy harvesting subsystems, showing how ambient energy is converted into usable electrical power.
